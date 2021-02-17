@@ -1,0 +1,2 @@
+# dummy
+a sample repository
